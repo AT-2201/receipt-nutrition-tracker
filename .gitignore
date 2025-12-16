@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Backend secrets
+backend/.env
+
+# Uploaded receipt images
+backend/app/uploads/
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
