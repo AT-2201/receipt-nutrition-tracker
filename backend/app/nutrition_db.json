@@ -1,0 +1,9 @@
+{
+  "banana": { "calories": 89, "protein": 1.1, "carbs": 23, "fat": 0.3 },
+  "apple": { "calories": 52, "protein": 0.3, "carbs": 14, "fat": 0.2 },
+  "chicken breast": { "calories": 165, "protein": 31, "carbs": 0, "fat": 3.6 },
+  "milk 2%": { "calories": 50, "protein": 3.4, "carbs": 5, "fat": 2 },
+  "brown rice": { "calories": 123, "protein": 2.6, "carbs": 25.6, "fat": 1 },
+  "broccoli": { "calories": 55, "protein": 3.7, "carbs": 11, "fat": 0.3 },
+  "oreo cookies": { "calories": 480, "protein": 4, "carbs": 72, "fat": 20 }
+}
